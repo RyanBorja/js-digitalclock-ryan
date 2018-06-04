@@ -14,6 +14,7 @@ function zeroPad(value) {
   }
   return value;
 }
+
 setInterval(setTime, 1000);
 
 setTime();
